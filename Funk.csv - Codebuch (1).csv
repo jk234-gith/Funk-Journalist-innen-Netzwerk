@@ -1,0 +1,22 @@
+Wert,Kommentar
+edgelist,
+from,Sender 
+to ,Empfänger
+weight,"Ausprägung der Beziehung, 1= schwach, 2= stark"
+relationship,"Art der Beziehung, 1= Geschäftspartner, 2= Formatkollegen, 3=Arbeitskollegen, 4= Mitglied,   5= andere, 6 = keine"
+,
+nodelist,.
+id,konkrete Zuordnung
+name,Name oder Bezeichnung des Knotens. 
+sex,"Geschlecht der Person, 1= weiblich, 2= männlich, 3= divers"
+Ausbildung,"1= Studium, 2=Volontariat, 3= Journalistenschule, 4=Praktikum, 5=andere, 6=mehrere"
+Studium,"1= keins, 2= medienbezogen, 3= gesellschaftswissenschaftlich, 4= naturwissenschaftlich, 5= andere, 6= mehrere"
+Geburtsjahr,"1= 1980 und älter, 2= 1981-1985, 3= 1986-1990, 4= 1991-1995, 5= 1996-2000, 6= 2000 und jünger"
+Journalistenschule,"1= nein, 2=Deutsche Journalistenschule, 3= Evangelische Journalistenschule, 4= Katholische Journalistenschule ifp, 5= RTL Journalistenschule"
+Volontariat,"1= nein, 2=nicht öffentlich-rechtlich, 3=BR, 4=NDR, 5=WDR, 6=RBB, 7= Radio Bremen, 8= SR, 9= SWR, 10= HR.... im ganzen Netzwerk codieren wir jede Rundfunkanstalt."
+Position,"1= Host, 2=Redakteur/in, 3= beides"
+Migrationshintergrund,"1= nein, 2= iranisch, 3= türkisch, 4= kroatisch, 5= arabisch, 6= polnisch, 7= italienisch, 8= russisch, 9= kamerunisch, 10= vietnamesich, 11= afrikanisch, 12= österreich, 13= indonesisch, 14=libanesisch, 15=französisch, 16= mehrere 17= marokkanisch, 18= amerikanisch, 19= koreanisch, 20= palästinensisch, 21= afghanisch"
+type,"1=Person, 2=Format, 3=Sendeanstalt"
+work,"1= Funk, 2= Rundfunkanstalt, 3=ZDF, 4=Produktionsfirma, 5= frei, 6= andere"
+"Wenn irgendwas nicht bekannt, frei lassen",
+weight,"1=schwach, 2= gut"
